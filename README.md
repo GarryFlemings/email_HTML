@@ -65,6 +65,36 @@ My clients want to concentrate on something else entirely.
 There's business benefit here for both of us!
 
 
+___What does a writer of email HTML do for you?___
+
+1. Responsive email
+
+The best writers of email HTML write _responsive_ HTML.
+These emails intentionally change appearance in response to
+the width of the reader's screen.
+
+Why responsive? [Email client market share](https://emailclientmarketshare.com/)
+reports that out of __1.03 billion emails__ opened during August 2018,
+__at least 37%__ (so 370,000,000; that's lots!) occurred on small screens
+(Apple iPhone or iPad, or Google Android).
+Many more emails probably were on small screens, but were reported under their
+email provider (like _Gmail_ and _Yahoo! Mail_) or other categories that
+could have included a mix of small and large screen sizes.
+A business failing to write for mobile email users could mean
+missing more than __one contact in three__. Yowch!
+
+2. Well chosen subset of HTML
+
+We write your text in a subset of HTML that most or almost all
+email applications support.
+We keep track of features not supported and avoid them.
+We keep track of features supported poorly and
+compensate where possible.
+We make your email represent you well when your contacts read it.
+(Your email may not look the same in every email
+application, but it looks good in just about all of them!)
+
+
 ___Why Garry?___
 I took to software development like white on rice in college.
 I have worked in Information Technology continuously since 1992.
@@ -146,34 +176,5 @@ vanishingly unlikely. These groups seem to value freedom
 to operate independently much more than the extra work of
 negotiation and collaboration.
 They're already as busy as they want their email to make them.
-
-## What does a writer of email HTML do for you?
-
-### Responsive email
-
-The best writers of email HTML write _responsive_ HTML.
-These emails intentionally change appearance in response to
-the width of the reader's screen.
-
-Why responsive? [Email client market share](https://emailclientmarketshare.com/)
-reports that out of __1.03 billion emails__ opened during August 2018,
-__at least 37%__ (so 370,000,000; that's lots!) occurred on small screens
-(Apple iPhone or iPad, or Google Android).
-Many more emails probably were on small screens, but were reported under their
-email provider (like _Gmail_ and _Yahoo! Mail_) or other categories that
-could have included a mix of small and large screen sizes.
-A business failing to write for mobile email users could mean
-missing more than __one contact in three__. Yowch!
-
-#### Well chosen subset of HTML
-
-We write your text in a subset of HTML that most or almost all
-email applications support.
-We keep track of features not supported and avoid them.
-We keep track of features supported poorly and
-compensate where possible.
-We make your email represent you well when your contacts read it.
-(Your email may not look the same in every email
-application, but it looks good in just about all of them!)
 
 ---
