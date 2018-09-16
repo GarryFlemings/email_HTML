@@ -1,9 +1,9 @@
 # Email HTML
 Garry Flemings, 2018-09-17
 
-This repository holds examples of Garry Flemings' email HTML work.
+This repository holds examples of my email HTML work.
 
-**Garry Flemings writes email HTML for email marketers and
+**I write email HTML for email marketers and
 people who want really attractive email signature blocks.**
 
 This write-up is intended for easy scanning. Read, scan, or skip at will!
