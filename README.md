@@ -1,4 +1,6 @@
-# Email HTML (Garry Flemings, 2018-09-17)
+# Email HTML
+Garry Flemings, 2018-09-17
+
 This repository holds examples of Garry Flemings' email HTML work.
 
 **Garry Flemings writes email HTML for email marketers and
